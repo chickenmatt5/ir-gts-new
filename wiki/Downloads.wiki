@@ -1,7 +1,9 @@
 #summary Links to all downloads
 #labels Phase-Deploy
 
-Download links coming soon.
+More download links coming soon.
 
 =Diagnostic script=
-[https://dl.dropboxusercontent.com/u/40986476/ir-gts-new/diag0.1.py diag0.1.py]
+Simple, unorganized diagnostic script to display information & some legit checking for 220-byte .PKM files.
+
+[https://dl.dropboxusercontent.com/u/40986476/ir-gts-new/diag0.1.py diag0.1.py] - initial release
