@@ -4,6 +4,6 @@
 More download links coming soon.
 
 =Diagnostic script=
-Simple, unorganized diagnostic script to display information & some legit checking for 220-byte .PKM files.
+_Simple, unorganized diagnostic script to display information & some legit checking for 220-byte .PKM files._
 
 [https://dl.dropboxusercontent.com/u/40986476/ir-gts-new/diag0.1.py diag0.1.py] - initial release
