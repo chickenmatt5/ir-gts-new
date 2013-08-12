@@ -2,3 +2,6 @@
 #labels Phase-Deploy
 
 Download links coming soon.
+
+=Diagnostic script=
+[https://dl.dropboxusercontent.com/u/40986476/ir-gts-new/diag0.1.py diag0.1.py]
