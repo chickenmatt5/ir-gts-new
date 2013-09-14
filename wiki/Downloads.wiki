@@ -1,9 +1,7 @@
 #summary Links to all downloads
 #labels Phase-Deploy,Featured
 
-More download links coming soon.
+==IR-GTS-BW-new==
+Version 0.1: [https://dl.dropboxusercontent.com/u/40986476/ir-gts-new/ir-gts-bw-new-v0.1.zip .zip download]
 
-=Diagnostic script=
-_Simple, unorganized diagnostic script to display information & some legit checking for 220-byte .PKM files._
-
-[https://dl.dropboxusercontent.com/u/40986476/ir-gts-new/diag0.1.py diag0.1.py] (v0.1) - initial release
+Changelog can be found [https://code.google.com/p/ir-gts-new/wiki/Changelog here].
