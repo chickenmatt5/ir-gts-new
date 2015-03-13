@@ -1,0 +1,7 @@
+# IR-GTS-BW-new #
+## Version 0.1 ##
+### First version of the new & maintained IR-GTS-BW ###
+  * Added an offline mode
+  * Added a simple, stats- & info-based hack-checker
+  * Rewrote some UI dialogue
+  * Reorganized some parts of the script
